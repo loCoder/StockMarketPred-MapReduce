@@ -1,0 +1,2 @@
+# StockMarketPred-MapReduce
+The repository consists of the Hadoop MapReduce code extracting only the information required by the ML algorithm for processing. The ML algorithm(linear regression) uses daily close/adj_close prices to get the next day's price. Some MR is done for demonstration purposes and can also be used for analysis. Also general analysis is done on the output of MR code using python.
